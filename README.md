@@ -6,10 +6,11 @@ Input string can be in one of the above formats.
 #Maven dependency
 
 Add the following maven dependency to pom.xml
-
+```html
 <dependency>
   	<groupId>junit</groupId>
   	<artifactId>junit</artifactId>
   	<version>4.12</version>
   	<scope>test</scope>
 </dependency>
+```
